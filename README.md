@@ -7,7 +7,7 @@ This project aims to make it easy to query the MTA service status file.
 Currently, it allows you to query this crazy file by individual transit line and get back sane json.
 
 ``` javascript
-var MTA = import('mta-service-status');
+var MTA = require('mta-service-status');
 
 MTA.getServiceStatus('subway', 'C').then(function(result) {
     console.log(result);
