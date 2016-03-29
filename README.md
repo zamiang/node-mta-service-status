@@ -2,7 +2,7 @@
 
 This project aims to make it easy to query the MTA service status file.
 
-Currently, it allows you to query this crazy file by individual line ('Q12', 'C') and get back sane json.
+Currently, it allows you to query this crazy file by individual transit line and get back sane json.
 var MTA = import('mta-service-status');
 
 ``` javascript
