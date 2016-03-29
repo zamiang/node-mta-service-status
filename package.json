@@ -1,7 +1,7 @@
 {
   "name": "mta-service-status",
   "version": "0.0.1",
-  "description": "An NYC library for querying the mta service status txt/xml/html/wtf file",
+  "description": "A NYC library for querying the MTA service status txt/xml/html/wtf file",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
