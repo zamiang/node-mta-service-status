@@ -1,3 +1,5 @@
+[![Build Status](https://semaphoreci.com/api/v1/zamiang/node-mta-service-status/branches/master/badge.svg)](https://semaphoreci.com/zamiang/node-mta-service-status)
+
 # MTA Service Status
 
 This project aims to make it easy to query the MTA service status file.
